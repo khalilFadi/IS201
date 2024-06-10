@@ -1,0 +1,15 @@
+h1{
+    color: darkgrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+.image{
+    float: left;
+    width: 100px;
+}
+.maininfo{
+    float: right;
+    width: 50%;
+}
+.video{
+    margin-top: 400px;
+}
